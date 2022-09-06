@@ -1,4 +1,4 @@
-## Olá, me chamo Patríck, sou desenvolvedor backend e um entusiasta de Java!
+## Olá, me chamo Patríck e sou um desenvolvedor backend aficionado por Java!
 <div align="center">
   <a href="https://github.com/Patricknunnes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patricknunnes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
